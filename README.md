@@ -93,4 +93,4 @@ Vision-Agents-main/
 ```
 
 ---
-Built with ❤️ for the Gemini Vision Agents Hackathon.
+Built with ❤️ for the Vision Agents Hackathon.
